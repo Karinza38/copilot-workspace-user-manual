@@ -1,4 +1,4 @@
-# 📖 Copilot Workspace User Manual
+ 📖 Copilot Workspace User Manual
 
 Welcome! 👋 This is the user manual for [Copilot Workspace](https://copilot-workspace.githubnext.com), an experiment by [GitHub Next](https://githubnext.com). Copilot Workspace is an AI-native dev environment that allows you to collaborate with Copilot on repo-wide coding tasks, using natural language and integrated cloud compute. You can learn more about what Copilot Workspace is from its [project page](https://githubnext.com/projects/copilot-workspace/).
 
